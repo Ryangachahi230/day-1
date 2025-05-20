@@ -3,3 +3,5 @@ CLI enables the user to save and format a files
 GIT enables the user to interact with the github
 Repository enables the developer to keep track of changes the code 
 Developers can collaborate
+Good things take time
+think twice
